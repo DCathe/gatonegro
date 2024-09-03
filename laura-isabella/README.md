@@ -13,7 +13,7 @@ Correo personal: natacionconisa@gmail.com
 
 Espero que podamos compartir conocimientos y experiencias enriquecedoras en la UNAD.
 
-![Foto de perfil 2024](https://github.com/user-attachments/assets/e3bbbf6a-3523-47a8-9d30-c6c58e3edfd4)
+![Foto de perfil 2024](https://github.com/user-attachments/assets/db099776-0207-4458-82bd-902ed95d9c2c)
 
 # Comida Favorita
 
