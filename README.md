@@ -53,3 +53,28 @@ costillas de cerdo bbq
 ## rol diseñador de personajes 3d
 el rol tiene como principal responsabilidad dar vida a esos distintos personajes relevantes dentro de los videojuegos, creando modelos de personajes en 3d 
 para peliculas o videojuegos, los modelos suelen basarse en ilustraciones dibujadas por un artista conceptual. 
+
+
+
+# Daniel Feliep Amaya
+## Mi Presentación
+Mi nombre es Daniel Felipe Amaya Valencia, tengo 34 años nacido en el municipio de ANserma Caldas, resido actualmente en Bogotá, me encuentro cursando actualmente 7° semestre de la Ingeniería Multimedia, me encuentro adcrito al CEAD de Yopal Casanare ya que vivía allá.
+Me gusta todo lo relacionado con la tecnología, me ha parecido un camino que me ha abierto la mente en conocimiento de estas nuevas tecnologías, ademas de poder entrar al mundo de la multimedia.
+
+Mis datos de contacto son:
+correo: dfamayav@unadvirtual.edu.co
+
+![foto perfil](https://github.com/user-attachments/assets/8512e782-f031-405f-bebc-3805548a1da7)
+
+
+## Rol de Ingeniero de Sonido
+Mi rol es el encargado de crear los sonidos ambientes y de personajes, ademas de darle esa vida a nuestro proyecto multimedia, me ha parecido muy interesante este camino de creación de los sonidos
+
+# Comida Favorita
+
+Mi comida favorita es la pizza, especial la que preparamos en casa ya que nos divertimos en familia preparándola, además de poder hacerla a nuestro gusto.
+
+![comida favorita](https://github.com/user-attachments/assets/5c9b8632-8961-45a6-aad2-e3c806a7cdc9)
+
+
+
