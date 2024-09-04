@@ -33,3 +33,13 @@ Mi comida favorita es la pasta, especialmente la que hace mi mamá, por su gran 
 
 ![creole-spaghetti](https://github.com/user-attachments/assets/7d495dc6-95ca-4b8a-8ced-82a059f56655)
 
+# cristian rojas
+## mi presentacion
+
+Mi nombre es Cristian Rojas tengo 28 años, estudiante 7mo semestre de Ingeniería Multimedia en la Universidad Nacional Abierta y a distancia UNAD. Con lugar de residencia en la ciudad de Granada Meta. Apasionado de los videojuegos, practico como deporte el futbol y el voleibol. Como comida favorita las castillas de cerdo a la BBQ entre otros platos.  
+Correo personal: fabhian1231@gmail.com correo institucional: cfrojasc@unadvirtual.edu.co 
+## comida favorita 
+costillas de cerdo bbq
+## rol diseñador de personajes 3d
+el rol tiene como principal responsabilidad dar vida a esos distintos personajes relevantes dentro de los videojuegos, creando modelos de personajes en 3d 
+para peliculas o videojuegos, los modelos suelen basarse en ilustraciones dibujadas por un artista conceptual. 
