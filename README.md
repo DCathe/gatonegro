@@ -33,3 +33,19 @@ Mi comida favorita es la pasta, especialmente la que hace mi mamá, por su gran 
 
 ![creole-spaghetti](https://github.com/user-attachments/assets/7d495dc6-95ca-4b8a-8ced-82a059f56655)
 
+# Daniel Feliep Amaya
+## Mi Presentación
+Mi nombre es Daniel Felipe Amaya Valencia, tengo 34 años nacido en el municipio de ANserma Caldas, resido actualmente en Bogotá, me encuentro cursando actualmente 7° semestre de la Ingeniería Multimedia, me encuentro adcrito al CEAD de Yopal Casanare ya que vivía allá.
+Me gusta todo lo relacionado con la tecnología, me ha parecido un camino que me ha abierto la mente en conocimiento de estas nuevas tecnologías, ademas de poder entrar al mundo de la multimedia.
+
+Mis datos de contacto son:
+correo: dfamayav@unadvirtual.edu.co
+
+## Rol de Ingeniero de Sonido
+Mi rol es el encargado de crear los sonidos ambientes y de personajes, ademas de darle esa vida a nuestro proyecto multimedia, me ha parecido muy interesante este camino de creación de los sonidos
+
+# Comida Favorita
+
+Mi comida favorita es la pizza, especial la que preparamos en casa ya que nos divertimos en familia preparándola, además de poder hacerla a nuestro gusto.
+
+
