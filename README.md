@@ -12,6 +12,9 @@ Mi comida favorita son los frijoles, especialmente los que prepara mi mami ♥
 
 ## Mi presentación
 # Laura Isabella Moreno Herrera
+
+#rol seleccionado: Ilustrador de Videojuegos
+
 Mi nombre es Laura Isabella Moreno Herrera, tengo 20 años y soy estudiante de octavo semestre del programa de Ingeniería Multimedia en la UNAD, adscrita al CEAD José Celestino Mutis, Zona Centro Bogotá.
 
 He sido nadadora durante más de 10 años, y mi pasión abarca el deporte, el dibujo, así como la animación tradicional y digital. Como futura profesional, mi objetivo es trabajar como animadora y artista independiente, compartiendo mis conocimientos por todo el mundo.
