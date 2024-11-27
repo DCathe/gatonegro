@@ -1,7 +1,10 @@
 using UnityEngine;
+using UnityEngine.Events;
 
 public class Grabber : MonoBehaviour
-{    
+{ 
+    public UnityEvent GrabbedACoin;
+
     private void OnTriggerEnter(Collider other)
     {
         CoinMovement coinMovement = other.GetComponentInParent<CoinMovement>();
@@ -15,5 +18,6 @@ public class Grabber : MonoBehaviour
         coinMovement.enabled = false;        
         coinMovement.transform.SetParent(transform, false);
         coinMovement.transform.localPosition = Vector3.zero;
+        GrabbedACoin.Invoke();
     }
 }
