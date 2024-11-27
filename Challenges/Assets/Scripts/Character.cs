@@ -8,18 +8,34 @@ public class Character : MonoBehaviour
 
     private CharacterController _controller;
 
-    void Start()
+    private bool _isMovementBlocked = false;
+
+    private void Start()
     {
         _controller = GetComponent<CharacterController>();
     }
 
-    void Update()
+    private void Update()
     {
+        if (_isMovementBlocked)
+        {
+            return;
+        }
         Vector3 movement = new(Input.GetAxis("Horizontal"), 0, Input.GetAxis("Vertical"));
         if (!_controller.isGrounded)
         {
             movement.y = -gravity;
         }
         _controller.Move(movement * Time.deltaTime * speed);
+    }
+
+    public void BlockMovement()
+    {
+        _isMovementBlocked = true;
+    }
+
+    public void UnblockMovement()
+    {
+        _isMovementBlocked = false;
     }
 }
